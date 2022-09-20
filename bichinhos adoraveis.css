@@ -1,0 +1,72 @@
+header{
+	background: #ffe890;
+	padding: 20px 0;
+}
+
+.caixa{
+	position: relative;
+	text-align: center;
+	margin: 0 auto;
+}
+
+nav{
+	position: static;
+	top: 240px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color:#f13eac ;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+#sobre{
+	padding-top: 50px;
+	padding-left: 20px;
+	font-size: 20px;
+}
+
+.bichinhos {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.bichinhos li {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+
+	margin: 0 1.5%;
+}
+
+.bichinhos h2{
+	font-size: 30px;
+	font-weight: bold;
+	color:  #7fe6e0;
+}
+
+.produto-descricao{
+	font-size: 22px;
+	font-weight: bold;
+}
+
+#urso-uva{
+	color: #cd7ee1;
+}
+
+#raposa-melancia{
+	color: #ff383e;
+}
+
+#coelha-banana{
+	color: #c2944e ;
+}
