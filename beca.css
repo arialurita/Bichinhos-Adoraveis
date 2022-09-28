@@ -1,0 +1,40 @@
+header{
+	background: #ffe890;
+	padding: 20px 0;
+}
+
+.caixa{
+	position: relative;
+	text-align: center;
+	margin: 0 auto;
+}
+
+nav{
+	position: static;
+	top: 240px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color:#f13eac ;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+#titulo {
+	font-weight: bold;
+	font-size: 60px;
+	color: #c2944e ;
+	padding: 80px 25%;
+	
+}
+
+#foto{
+	margin: 0 0 0 50px;
+}
