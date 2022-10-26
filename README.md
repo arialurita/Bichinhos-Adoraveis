@@ -1,3 +1,12 @@
-# trabalho-grupo
--Amanda Marques de Souza      N-3
--Ana Rita Ribeiro da Paixão   N-4
+# Bichinhos Adoráveis
+Amanda Marques 
+
+Ana Rita 
+
+Jõao Vitor Mesquita
+
+Maria Luísa
+
+Miguel
+
+Samira
