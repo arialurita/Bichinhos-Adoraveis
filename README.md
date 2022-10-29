@@ -1,12 +1,12 @@
 # Bichinhos Adoráveis
-Amanda Marques 
+Amanda Marques de Souza      N:03
 
-Ana Rita 
+Ana Rita Ribeiro da Paixão        N:04  
 
-Jõao Vitor Mesquita
+Jõao Vitor Mesquita     N:
 
-Maria Luísa
+Maria Luísa de Castro e Sousa      N:25
 
-Miguel
+Miguel                  N:
 
-Samira
+Samira Vitória Lacerda           N:30
