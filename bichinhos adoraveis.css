@@ -77,7 +77,15 @@ nav a {
 	font-weight: bold;
 }
 
-#video{
+.propaganda{
+	text-align: center;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
 
+#Características{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
 }
 

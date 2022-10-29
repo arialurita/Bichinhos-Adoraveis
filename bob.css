@@ -26,3 +26,36 @@ nav a {
 	font-size: 22px;
 	text-decoration: none;
 }
+
+#titulo {
+	font-weight: bold;
+	font-size: 60px;
+	text-align: center;
+	color: #cd7ee1 ;
+	padding: 80px ;
+}
+
+.foto{
+	display: inline-block;
+	width: 20%;
+	margin: 0 0 0 10%;
+
+}
+
+.descrição1{
+	display: inline-block;
+	vertical-align: top;
+	font-size: 20px;
+	margin: 5% 0 0 20%;
+
+}
+
+#oquesou{
+	font-weight: bold;
+	margin: 12px 0 12px 0;
+}
+
+.descrição2{
+	font-size: 20px;
+	margin: 2% 0 0 5%;
+}
