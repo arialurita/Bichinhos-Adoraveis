@@ -27,6 +27,11 @@ nav a {
 	text-decoration: none;
 }
 
+nav a:hover{
+	color: #7fe6e0;
+	text-decoration: underline;
+}
+
 #titulo {
 	font-weight: bold;
 	font-size: 60px;
@@ -39,7 +44,9 @@ nav a {
 	display: inline-block;
 	width: 20%;
 	margin: 0 0 0 10%;
-
+	padding: 5px;
+	border: 5px dotted #ff383e;
+	border-radius: 12px;
 }
 
 .descrição1{
@@ -55,7 +62,40 @@ nav a {
 	margin: 12px 0 12px 0;
 }
 
+#compra{
+	font-size: 26px;
+	font-weight: bold;
+	color: #f13eac;
+	margin: 8% 37% 0 0%;
+	border: 3px solid #f13eac;
+	border-radius: 10px;
+}
+
+#compra:hover{
+	color:#7fe6e0 ;
+	border-color: #7fe6e0;
+	font-size: 30px;
+	margin-right: 28%;
+}
+
+#compra:active{
+	color:#ffe890 ;
+	border-color: #ffe890;
+}
+
 .descrição2{
 	font-size: 20px;
-	margin: 2% 0 0 5%;
+	margin: 2% 0 2% 5%;
+}
+
+footer{
+	background: url("bg.png");
+
+	text-align: center;
+	padding: 40px 0;
+}
+
+.copyright{
+	color: #FFFFFF;
+	font-weight: bold;
 }

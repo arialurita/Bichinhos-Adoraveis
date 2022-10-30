@@ -27,10 +27,16 @@ nav a {
 	text-decoration: none;
 }
 
+nav a:hover{
+	color: #7fe6e0;
+	text-decoration: underline;
+}
+
 #sobre{
 	padding-top: 50px;
 	padding-left: 20px;
 	font-size: 20px;
+	margin-left: 10px;
 }
 
 .bichinhos {
@@ -44,8 +50,19 @@ nav a {
 	text-align: center;
 	width: 30%;
 	vertical-align: top;
-
 	margin: 0 1.5%;
+}
+
+.bichinhos li:hover #urso-uva{
+	font-size: 28px;
+}
+
+.bichinhos li:hover #raposa-melancia{
+	font-size: 28px;
+}
+
+.bichinhos li:hover #coelha-banana{
+	font-size: 28px;
 }
 
 .bichinhos h2{
@@ -89,3 +106,14 @@ nav a {
 	font-size: 30px;
 }
 
+footer{
+	background: url("bg.png");
+
+	text-align: center;
+	padding: 40px 0;
+}
+
+.copyright{
+	color: #FFFFFF;
+	font-weight: bold;
+}
